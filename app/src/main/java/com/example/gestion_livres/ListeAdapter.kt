@@ -27,9 +27,9 @@ class ListeAdapter : RecyclerView.Adapter<ListeViewHolder>() {
 
         listeViewHolder.itemView.setOnClickListener {
             val intent = Intent(listeViewHolder.itemView.context, DetailActivity::class.java).apply {
-                putExtra("titre", livre.Titre)
-                putExtra("auteur", livre.Auteur)
-                putExtra("description", livre.Description)
+                putExtra("Titre", livre.Titre)
+                putExtra("Auteur", livre.Auteur)
+                putExtra("Description", livre.Description)
                 putExtra("photo", livre.photo)
                 putExtra("posseder", livre.posseder)
             }
