@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906006993511",
+    "project_id": "gestion-des-livres-83c87",
+    "storage_bucket": "gestion-des-livres-83c87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906006993511:android:a61b08bd5b50cdde73d2c2",
+        "android_client_info": {
+          "package_name": "com.example.gestion_livres"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcSMVKTc41MD0ZUytr9BFW3P3YcPYTBwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
